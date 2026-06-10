@@ -1,2 +1,0 @@
-Este es el nuevo contenido del fichero.
-Sobrescribiendo el anterior.
